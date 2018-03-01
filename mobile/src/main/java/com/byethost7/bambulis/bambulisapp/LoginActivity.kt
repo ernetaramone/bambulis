@@ -6,7 +6,9 @@ import android.os.Bundle
 class LoginActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
+        super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login)
+
+        //paredaguotas failas
     }
 }
